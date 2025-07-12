@@ -63,3 +63,11 @@ I use most of the problems can be solved, but the problem of the lack of url of 
 ## 📄 License / 授權
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## 🚀 Development Story / 開發故事
+
+Curious about how this project came to be? Read the full conversation and development log here:
+
+對這個專案的誕生過程感到好奇嗎？您可以在此閱讀完整的對話與開發日誌：
+
+**[👉 Read the Making-Of Story (DEVELOPMENT_LOG.md)](DEVELOPMENT_LOG.md)**
