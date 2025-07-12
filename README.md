@@ -53,12 +53,12 @@ After you have successfully imported your passwords, you **MUST** permanently de
 
 在您成功將密碼匯入到密碼管理器之後，**必須**從您的電腦上**徹底刪除**所有的 CSV 檔案。
 
-This program all come from ai studio model is Gemini 2.5 pro.
- I have been able to solve most of the problems with it, but the problem of missing url for android app login is not yet thought about how to let ai modify it There is a probability of missing data after using it, **so please make sure it is complete before deleting any files**.
+This program all come from ai studio model for Gemini 2.5 pro
+I use most of the problems can be solved, but the problem of the lack of url of the Android application login has not yet thought about how to let ai modification, the probability of lack of data after use **so please make sure that the integrity of the deletion of any file**.
  
 此程式皆來至ai studio 模型為Gemini 2.5 pro
 本人使用大部分問題皆能解決，但安卓應用登入的缺少url的問題尚未思考如何讓ai修改
-使用完概率缺少數據，**故請確認完整在刪除任何檔案**。
+，使用完概率缺少數據**故請確認完整在刪除任何檔案**。
 
 ## 📄 License / 授權
 
