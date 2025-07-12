@@ -12,7 +12,7 @@ For the easiest experience, use our browser-based tool. No installation needed! 
 
 為了最簡單的使用體驗，請直接使用我們的網頁工具，無需任何安裝！所有處理都在您的瀏覽器本地完成，您的資料絕不會被上傳。
 
-**👉 [Click here to use the Web Tool / 點此使用網頁工具](https://YourUsername.github.io/proton-pass-migrator/password-converter.html)** 
+**👉 [Click here to use the Web Tool / 點此使用網頁工具](https://github.com/yuki-sakura-0001/proton-pass-migrator/password-converter.html)** 
 
 *(Note: This link will work after you set up GitHub Pages.)*
 *(註：此連結將在您完成 GitHub Pages 設定後生效。)*
